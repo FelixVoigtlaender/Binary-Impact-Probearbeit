@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Tube
+    uniqueID: 3423684005
+    locked: 0
+  - name: Ball
+    uniqueID: 386872433
+    locked: 0
+  - name: Selector
+    uniqueID: 317938341
+    locked: 0
